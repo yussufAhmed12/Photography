@@ -1,0 +1,30 @@
+body {
+    background-color: seagreen;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+images {
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    color: pink;
+}
+
+
+
+#head {
+    color: rgb(14, 13, 13);
+}
+
+p {
+    font-weight: normal;
+}
