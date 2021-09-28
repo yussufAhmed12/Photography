@@ -13,4 +13,5 @@ This is Website where i have stored all my <strong>favorite</strong> photos
 https://github.com/yussufAhmed12/Photography
 
 ## license
-# MIT
+# MIT 
+The MIT License is short and to the point. It lets people do almost anything they want with your project, like making and distributing closed source versions
