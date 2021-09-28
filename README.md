@@ -14,4 +14,4 @@ https://github.com/yussufAhmed12/Photography
 
 ## license
 # MIT 
-The MIT License is short and to the point. It lets people do almost anything they want with your project, like making and distributing closed source versions
+The MIT License is short and to the point. It lets people do almost anything they want with your project, like making and distributing closed source versions.
