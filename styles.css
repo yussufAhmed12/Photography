@@ -1,5 +1,5 @@
 body {
-    background-color: seagreen;
+    background-color: whitesmoke;
     font-family: Arial, Helvetica, sans-serif;
 
 }
@@ -16,7 +16,7 @@ images {
 
 h1 {
     padding-left: 150px;
-    color: pink;
+    color: white;
     text-transform: uppercase;
     padding-top: 50px;
 }
