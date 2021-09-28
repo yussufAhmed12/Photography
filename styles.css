@@ -15,13 +15,16 @@ images {
 }
 
 h1 {
-    text-align: center;
+    padding-left: 150px;
     color: pink;
     text-transform: uppercase;
     padding-top: 50px;
 }
 #para{
-    text-align:center;
+    padding-left: 150px;
+}
+.list{
+    padding-left: 150px;
 }
 
 
